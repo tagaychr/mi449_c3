@@ -3,15 +3,21 @@
     color: #fff;
     background-color: #0D0A2B;
     margin: 0;
+ }
 
+ main{
+    padding: 10px;
  }
 
 
  .experiments {
     display: flex;
     flex-wrap: wrap;
+    margin: auto;
 }
 
 .experiment {
-    width: 50%; /* Two experiments side by side */
+    width: 40%; /* Two experiments side by side */
+    background-color: #D9D9D9;
+    color: #000;
 }
