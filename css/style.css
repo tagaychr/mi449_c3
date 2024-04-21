@@ -1,1 +1,17 @@
- 
+ body{
+    font-family: monospace;
+    color: #fff;
+    background-color: #0D0A2B;
+    margin: 0;
+
+ }
+
+
+ .experiments {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.experiment {
+    width: 50%; /* Two experiments side by side */
+}
