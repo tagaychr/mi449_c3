@@ -20,4 +20,7 @@
     width: 40%; /* Two experiments side by side */
     background-color: #D9D9D9;
     color: #000;
+    margin: 30px;
+    padding: 10px;
+    height: 200px;
 }
